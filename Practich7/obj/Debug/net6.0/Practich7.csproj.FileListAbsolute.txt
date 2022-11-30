@@ -1,0 +1,15 @@
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\bin\Debug\net6.0\Practich7.exe
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\bin\Debug\net6.0\Practich7.deps.json
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\bin\Debug\net6.0\Practich7.runtimeconfig.json
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\bin\Debug\net6.0\Practich7.dll
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\bin\Debug\net6.0\Practich7.pdb
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.csproj.AssemblyReference.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.AssemblyInfoInputs.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.AssemblyInfo.cs
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.dll
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\refint\Practich7.dll
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.pdb
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\Practich7.genruntimeconfig.cache
+C:\Users\Anna\Documents\ОАИП Скорогудаева\Practich7\Practich7\obj\Debug\net6.0\ref\Practich7.dll
